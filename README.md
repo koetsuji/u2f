@@ -8,7 +8,7 @@ This proje also uses BouncyCastle for certification actions on dotnet core.
 
 ### Demo Project
 
-Demo project is just testing purpose. Do not use it on production.
+Demo project only has the purpose of testing. Do not use it on production.
 
 #### Supported Options
 
@@ -44,8 +44,8 @@ Nuget packages will be ready soon and automated for next updates.
 
 ### FIDO Universal 2nd Factor (U2F) for C# .NET
 
-This project forked from [@hanswolff](https://github.com/hanswolff) 's project named as "https://github.com/hanswolff/fido-u2f-net". All namespaces are changed and maintained by MonoSign Team now. Thank you for bringing this project and help us to understand more.
+This project was forked from [@hanswolff](https://github.com/hanswolff)'s project: "https://github.com/hanswolff/fido-u2f-net". All namespaces have been changed and maintained by MonoSign Team now. Thank you for bringing this project and help us to understand more.
 
 ### License, Usage, Contribution
 
-Feel free to use, change, update and please PR if you did better things on project.
+Feel free to use, change, update, contribute and please PR if you create better things with the project.
